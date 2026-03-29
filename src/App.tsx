@@ -151,7 +151,7 @@ export default function App() {
               className="space-y-6"
             >
               <span className="text-sm tracking-[0.3em] uppercase font-medium text-rose-800">The Wedding of</span>
-              <h1 className="text-6xl md:text-8xl font-display text-rose-900 italic">Siti & Adi</h1>
+              <h1 className="text-6xl md:text-8xl font-display text-rose-900 italic">Aisyah & Adi</h1>
               <div className="w-12 h-px bg-rose-300 mx-auto"></div>
               <p className="text-lg font-serif italic text-gray-600">Sabtu, 04 April 2026</p>
               
